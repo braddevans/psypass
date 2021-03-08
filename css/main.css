@@ -1,0 +1,6 @@
+body {
+    width: 300px; /* your desired width */
+    height: 500px;
+    position: relative;
+    vertical-align:middle;
+}
